@@ -90,3 +90,8 @@ button.ignore {
 #statistics p {
   margin: 10px 0;
 }
+
+.highlight {
+  border: 5px solid #ff0000; /* Czerwone obramowanie */
+  box-shadow: 0 0 10px rgba(255, 0, 0, 0.5); /* Dodatkowy cień dla lepszego efektu */
+}
